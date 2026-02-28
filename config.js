@@ -22,11 +22,11 @@
     "CREATORLINK": "https://www.facebook.com/profile.php?id=zeeshanofficial01",
     "CREATORID": "100009593303125",
     "BOTNAME": "𝐋𝐄𝐀𝐑𝐍 𝐅𝐎𝐑 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑𝐒",
-    "PREFIX": ".",
+    "PREFIX": "?",
     "ADMINBOT": [
-        "100009593303125",
-        "",
-        "",
+        "61581167365844",
+        "61581167365844",
+        "61581167365844",
         "",
         "",
         "",
@@ -213,4 +213,5 @@
     "tiktok": {
         "API_KEY": "mzkFree_722124509AC10"
     }
+
 }
